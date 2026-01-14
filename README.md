@@ -1,5 +1,6 @@
 # Disaster-Recovery.-FHRP-Keepalived
 ## Задание 1
+hsrp_advanced_home_work.pkt - файл с исправленной схемой  
 Список команд которые я   использовал   для  настройки 
 ### На Router0:
 enable  
