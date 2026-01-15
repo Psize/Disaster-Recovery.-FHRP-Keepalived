@@ -30,5 +30,6 @@ write memory
 ## Задание 2
 Скриншоты демонстрации переезда ip адресса
 <img width="2310" height="377" alt="image" src="https://github.com/user-attachments/assets/e2f03ad1-8fb4-4b0a-a467-cba47f22413e" />
+После остановки nginx на master сервере
 <img width="2307" height="343" alt="image" src="https://github.com/user-attachments/assets/063f4ca4-0a6b-470c-9042-325a606f0906" />
 
