@@ -28,6 +28,11 @@ write memory
 
 
 ## Задание 2
+Файлы для првоерки:
+check_web.sh - скрипт  
+keepalived_master.conf - конфиг мастер сервера  
+keepalived_Backup.conf - конфиг бэкап сервера  
+
 Скриншоты демонстрации переезда ip адресса
 <img width="2310" height="377" alt="image" src="https://github.com/user-attachments/assets/e2f03ad1-8fb4-4b0a-a467-cba47f22413e" />
 После остановки nginx на master сервере
