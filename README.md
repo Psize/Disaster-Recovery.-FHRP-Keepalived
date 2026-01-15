@@ -28,7 +28,7 @@ write memory
 
 
 ## Задание 2
-Файлы для првоерки:
+Файлы для првоерки:  
 check_web.sh - скрипт  
 keepalived_master.conf - конфиг мастер сервера  
 keepalived_Backup.conf - конфиг бэкап сервера  
